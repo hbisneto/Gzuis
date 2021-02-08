@@ -34,7 +34,10 @@ O programa foi desenvolvido para:
 - Mostrar a "Palavra do dia";
 
 ## Palavra do dia:
-Função consiste em mostrar um ditado da Bíblia de acordo com a entrada do usuário. Após a inserção dos dados (Dia, Mês e Ano), o programa mostra a mensagem de acordo com os dados inseridos de acordo com o exemplo abaixo:
+
+**Atenção: Foram implementadas frases da função Palavra do Dia até o dia 10/01.**
+<br>
+<br>Função consiste em mostrar um ditado da Bíblia de acordo com a entrada do usuário. Após a inserção dos dados (Dia, Mês e Ano), o programa mostra a mensagem de acordo com os dados inseridos de acordo com o exemplo abaixo:
 
 Output:
 
